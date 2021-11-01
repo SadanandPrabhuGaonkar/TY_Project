@@ -1,1 +1,1 @@
-# TY_Project
+Blockchain based document and smartcard generator
